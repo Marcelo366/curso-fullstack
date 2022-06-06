@@ -1,0 +1,4 @@
+title New note SPA
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server->browser: json data
